@@ -13,6 +13,7 @@ This is a repository to showcase my skills, share projects and track my progress
 ## Table of Contents
 - [About](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#portfolio-projects)
+  - Power BI
 - [Education](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#education)
 - [Certifications](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#certifications)
 - [Contact Details](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#contact-details)

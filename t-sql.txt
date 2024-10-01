@@ -1,0 +1,89 @@
+-- Cleaning Data in SQL Queries
+-----------------------------------------------------------------------
+
+SELECT *
+FROM CompanyDatabase.dbo.EmployeeRecords
+
+
+-----------------------------------------------------------------------
+-- Standardize Date Format
+
+ALTER TABLE CompanyDatabase.dbo.EmployeeRecords
+ADD StandardizedHireDate Date;
+
+UPDATE CompanyDatabase.dbo.EmployeeRecords
+SET StandardizedHireDate = CONVERT(Date, HireDate)
+
+SELECT StandardizedHireDate, HireDate
+FROM CompanyDatabase.dbo.EmployeeRecords
+
+
+-----------------------------------------------------------------------
+-- Populate Department Data
+
+UPDATE a
+SET Department = ISNULL(a.Department, b.Department)
+FROM CompanyDatabase.dbo.EmployeeRecords a
+JOIN CompanyDatabase.dbo.EmployeeRecords b
+    ON a.EmployeeID = b.EmployeeID
+    AND a.RecordID <> b.RecordID
+WHERE a.Department IS NULL
+
+SELECT Department
+FROM CompanyDatabase.dbo.EmployeeRecords
+WHERE Department IS NULL
+
+
+-------------------------------------------------------------------------
+-- Break out FullName into individual Columns (FirstName, LastName)
+
+ALTER TABLE CompanyDatabase.dbo.EmployeeRecords
+ADD FirstName NVARCHAR(255),
+    LastName NVARCHAR(255);
+
+UPDATE CompanyDatabase.dbo.EmployeeRecords
+SET FirstName = SUBSTRING(FullName, 1, CHARINDEX(' ', FullName) - 1),
+    LastName = SUBSTRING(FullName, CHARINDEX(' ', FullName) + 1, LEN(FullName))
+
+SELECT FirstName, LastName
+FROM CompanyDatabase.dbo.EmployeeRecords
+
+
+------------------------------------------------------------------------------
+-- Change EmploymentStatus values
+
+SELECT DISTINCT EmploymentStatus
+FROM CompanyDatabase.dbo.EmployeeRecords
+
+UPDATE CompanyDatabase.dbo.EmployeeRecords
+SET EmploymentStatus = CASE 
+    WHEN EmploymentStatus = 'A' THEN 'Active'
+    WHEN EmploymentStatus = 'I' THEN 'Inactive'
+    ELSE EmploymentStatus
+END
+
+
+-------------------------------------------------------------------------------
+-- Remove Duplicates
+
+WITH RowNumCTE AS (
+SELECT *,
+   ROW_NUMBER() OVER (
+   PARTITION BY EmployeeID, FirstName, LastName, HireDate, Department
+   ORDER BY RecordID
+   ) row_num
+FROM CompanyDatabase.dbo.EmployeeRecords
+)
+DELETE
+FROM RowNumCTE
+WHERE row_num > 1
+
+
+----------------------------------------------------------------
+-- Delete Unused Columns
+
+ALTER TABLE CompanyDatabase.dbo.EmployeeRecords
+DROP COLUMN HireDate, FullName
+
+SELECT *
+FROM CompanyDatabase.dbo.EmployeeRecords

@@ -13,13 +13,9 @@ This is a repository to showcase my skills, share projects and track my progress
 ## Table of Contents
 - [About](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#portfolio-projects)
-  
-  
-
-
 - [Education](https://github.com/mdrafi-m/Data_Analysis_Portfolio/README.md#education)  
 - [Certifications](https://github.com/mdrafi-m/Data_Analysis_Portfolio/main/README.md#certifications)
-- [Contact Details](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#contacts)
+- [Contact Details](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#contact-details)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 

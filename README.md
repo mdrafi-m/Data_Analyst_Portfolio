@@ -6,7 +6,7 @@ Throughout my journey, I have honed my skills in tools like Excel, Power BI, SQL
 
 In my free time, I enjoy exploring new data analysis tools and techniques and am always eager to expand my knowledge. Whether working independently or as part of a team, I am driven by the satisfaction of uncovering insights and using data to solve real-world challenges.
 
-My Resume in [pdf]().
+My Resume in [pdf](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/Rafi_resume.pdf).
 
 This is a repository to showcase my skills, share projects and track my progress in Data Analytics and Data Science related topics.
 

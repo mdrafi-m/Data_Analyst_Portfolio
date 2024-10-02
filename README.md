@@ -16,7 +16,7 @@ This is a repository to showcase my skills, share projects and track my progress
   
   - Power BI
 
-    - [Road Accident Analysis]()
+    - [Road Accident Analysis](https://github.com/mdrafi-m/Data_Analyst_Portfolio/tree/main?tab=readme-ov-file#road-accident-analysis)
     - [Adidas Sales Analysis]()
     - [PwC - PowerBI Virtual Internship]()
 

@@ -32,9 +32,7 @@ This is a repository to showcase my skills, share projects and track my progress
 
 **PowerBI File:** [`Road_Accident_Analysis.pbix`](https://drive.google.com/file/d/1ckfbxJVNrWqEUh673Ys06abnkrHTT9QE/view?usp=sharing)
 
-
-
-**Description:** The dataset contains 30000+ rows of detailed road accident information with 21 columns, covering key aspects such as accident date, time, and location (latitude and district). It includes factors like accident severity, road and weather conditions, lighting, and junction control, providing context for each incident. Additionally, it records the number of vehicles and casualties involved, along with vehicle types and the police force handling the case. This data is valuable for identifying patterns, risk factors, and improving road safety measures.
+**Description:** The dataset contains 30000+ rows of detailed road accident information with 21 columns, covering key aspects such as accident date, time, and location (latitude and district). It includes factors like accident severity, road and weather conditions, lighting, and junction control, providing context for each incident. Additionally, it records the number of vehicles and casualties involved, along with vehicle types and the police force handling the case. This data is valuable for identifying patterns, risk factors, and improving road safety measures.Due to the large size of the dataset, the Power BI file exceeds the upload limit. As a solution, I have uploaded both files to Google Drive and provided the links for reference
 
 ## Education
 Dhaanish Ahmed College of Engineering - Bachelor of Engineering in Civil Engineering (2014-2018)

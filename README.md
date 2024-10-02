@@ -1,6 +1,6 @@
 # Mohamed Rafiudeen - Data Analyst Portfolio
 ## About
-Hello, I'm Mohamed Rafiudeen! I graduated in Civil Engineering and am currently transitioning into the field of Data Science and Analytics. I have developed a strong foundation in data analysis and problem-solving, driven by my passion for data-driven decision-making. I am excited to bring my analytical skills and technical expertise to the field as an entry-level data analyst.
+Hello, I'm Mohamed Rafiudeen! I graduated in Civil Engineering and am currently transitioning into the field of Data Science and Analytics. I have developed a strong foundation in data analysis and problem-solving, driven by my passion for data-driven decision-making. I am excited to bring my analytical skills and technical expertise to the field as an Junior/Associate-level data analyst.
 
 Throughout my journey, I have honed my skills in tools like Excel, Power BI, SQL, Alteryx, Python libraries for Data Analysis and Visualizations, gaining certifications that showcase my commitment to continuous learning and I believe i can be a valuable asset in my role as a Data Analyst.
 
@@ -45,6 +45,8 @@ This is a repository to showcase my skills, share projects and track my progress
 **PDF:** [`Adidas Sales Analysis.pdf`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/Adidas%20Sales%20Analysis.pdf)
 
 **Description:** The dataset contains 9500+ rows of detailed sales data for Adidas products with 13 columns. Key information includes a unique Retailer ID, the Invoice Date of each transaction, and the Region and City of the sale (e.g., Northeast, New York). It specifies the Product sold (e.g., Men's Street Footwear), along with the Price per Unit, Units Sold, and Total Sales generated. Additionally, the spreadsheet captures Profit, Operating Margin, and the Sales Method (e.g., In-store or Outlet). This dataset is useful for analyzing sales performance, profitability, and regional trends across multiple transactions.
+
+### PwC - PowerBI Virtual Internship
 
 
 ## Education

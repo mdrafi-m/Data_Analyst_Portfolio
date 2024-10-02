@@ -17,14 +17,24 @@ This is a repository to showcase my skills, share projects and track my progress
   - Power BI
 
     - [Road Accident Analysis]()
-    - []()
-    - []()
+    - [Adidas Sales Analysis]()
+    - [PwC - PowerBI Virtual Internship]()
 
 - [Education](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#education)
 - [Certifications](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#certifications)
 - [Contact Details](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#contact-details)
 ## Portfolio Projects
-In this section, I will outline my data analytics projects, providing a brief description of the technology stack used to address each case.
+
+### Road Accident Analysis
+**Dashboard:** [`Road_Accident_Analysis.pdf`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/Road_Accident_Analysis.pdf)
+
+**Dataset:** [`Road Accident Data.xlsx`](https://docs.google.com/spreadsheets/d/1uyiJU34fq9IKEu5b3VQYIhTg8g4ay0pA/edit?usp=sharing&ouid=113517447462220988150&rtpof=true&sd=true)
+
+**PowerBI File:** [`Road_Accident_Analysis.pbix`](https://drive.google.com/file/d/1ckfbxJVNrWqEUh673Ys06abnkrHTT9QE/view?usp=sharing)
+
+
+
+**Description:** The dataset contains 30000+ rows of detailed road accident information with 21 columns, covering key aspects such as accident date, time, and location (latitude and district). It includes factors like accident severity, road and weather conditions, lighting, and junction control, providing context for each incident. Additionally, it records the number of vehicles and casualties involved, along with vehicle types and the police force handling the case. This data is valuable for identifying patterns, risk factors, and improving road safety measures.
 
 ## Education
 Dhaanish Ahmed College of Engineering - Bachelor of Engineering in Civil Engineering (2014-2018)

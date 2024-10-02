@@ -23,16 +23,29 @@ This is a repository to showcase my skills, share projects and track my progress
 - [Education](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#education)
 - [Certifications](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#certifications)
 - [Contact Details](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#contact-details)
+
 ## Portfolio Projects
 
 ### Road Accident Analysis
-**Dashboard:** [`Road_Accident_Analysis.pdf`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/Road_Accident_Analysis.pdf)
 
 **Dataset:** [`Road Accident Data.xlsx`](https://docs.google.com/spreadsheets/d/1uyiJU34fq9IKEu5b3VQYIhTg8g4ay0pA/edit?usp=sharing&ouid=113517447462220988150&rtpof=true&sd=true)
 
 **PowerBI File:** [`Road_Accident_Analysis.pbix`](https://drive.google.com/file/d/1ckfbxJVNrWqEUh673Ys06abnkrHTT9QE/view?usp=sharing)
 
-**Description:** The dataset contains 30000+ rows of detailed road accident information with 21 columns, covering key aspects such as accident date, time, and location (latitude and district). It includes factors like accident severity, road and weather conditions, lighting, and junction control, providing context for each incident. Additionally, it records the number of vehicles and casualties involved, along with vehicle types and the police force handling the case. This data is valuable for identifying patterns, risk factors, and improving road safety measures.Due to the large size of the dataset, the Power BI file exceeds the upload limit. As a solution, I have uploaded both files to Google Drive and provided the links for reference
+**PDF:** [`Road_Accident_Analysis.pdf`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/Road_Accident_Analysis.pdf)
+
+**Description:** The dataset contains 30000+ rows of detailed road accident information with 21 columns, covering key aspects such as accident date, time, and location (latitude and district). It includes factors like accident severity, road and weather conditions, lighting, and junction control, providing context for each incident. Additionally, it records the number of vehicles and casualties involved, along with vehicle types and the police force handling the case. This data is valuable for identifying patterns, risk factors, and improving road safety measures.Due to the large size of the dataset, the Power BI file exceeds the upload limit. As a solution, I have uploaded both files to Google Drive and provided the links for reference.
+
+### Adidas Sales Analysis
+
+**PowerBI File:** [`Adidas Sales Analysis.pbix`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/Adidas%20Sales%20Analysis.pbix)
+
+**Dataset:** [`Adidas US Sales Datasets.xlsx`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/Adidas%20US%20Sales%20Datasets.xlsx)
+
+**PDF:** [`Adidas Sales Analysis.pdf`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/Adidas%20Sales%20Analysis.pdf)
+
+**Description:** The dataset contains 9500+ rows of detailed sales data for Adidas products with 13 columns. Key information includes a unique Retailer ID, the Invoice Date of each transaction, and the Region and City of the sale (e.g., Northeast, New York). It specifies the Product sold (e.g., Men's Street Footwear), along with the Price per Unit, Units Sold, and Total Sales generated. Additionally, the spreadsheet captures Profit, Operating Margin, and the Sales Method (e.g., In-store or Outlet). This dataset is useful for analyzing sales performance, profitability, and regional trends across multiple transactions.
+
 
 ## Education
 Dhaanish Ahmed College of Engineering - Bachelor of Engineering in Civil Engineering (2014-2018)

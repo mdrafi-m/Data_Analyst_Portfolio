@@ -18,7 +18,7 @@ This is a repository to showcase my skills, share projects and track my progress
 
     - [Road Accident Analysis](https://github.com/mdrafi-m/Data_Analyst_Portfolio/tree/main?tab=readme-ov-file#road-accident-analysis)
     - [Adidas Sales Analysis](https://github.com/mdrafi-m/Data_Analyst_Portfolio/tree/main?tab=readme-ov-file#adidas-sales-analysis)
-    - [PwC - PowerBI Virtual Internship]()
+    - [PwC - PowerBI Virtual Internship](https://github.com/mdrafi-m/Data_Analyst_Portfolio/tree/main?tab=readme-ov-file#pwc---powerbi-virtual-internship)
 
 - [Education](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#education)
 - [Certifications](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/README.md#certifications)
@@ -28,9 +28,9 @@ This is a repository to showcase my skills, share projects and track my progress
 
 ### Road Accident Analysis
 
-**Dataset:** [`Road Accident Data.xlsx`](https://docs.google.com/spreadsheets/d/1uyiJU34fq9IKEu5b3VQYIhTg8g4ay0pA/edit?usp=sharing&ouid=113517447462220988150&rtpof=true&sd=true)
-
 **PowerBI File:** [`Road_Accident_Analysis.pbix`](https://drive.google.com/file/d/1ckfbxJVNrWqEUh673Ys06abnkrHTT9QE/view?usp=sharing)
+
+**Dataset:** [`Road Accident Data.xlsx`](https://docs.google.com/spreadsheets/d/1uyiJU34fq9IKEu5b3VQYIhTg8g4ay0pA/edit?usp=sharing&ouid=113517447462220988150&rtpof=true&sd=true)
 
 **PDF:** [`Road_Accident_Analysis.pdf`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/Road_Accident_Analysis.pdf)
 
@@ -48,6 +48,32 @@ This is a repository to showcase my skills, share projects and track my progress
 
 ### PwC - PowerBI Virtual Internship
 
+**Description:** The PwC Power BI job simulation is a comprehensive, real-world case designed to enhance participants' data analysis and visualization skilks. It emphasizes critical areas like dashboard creation, stakeholder communication, and the use of Power BI for business insights, preparing participants for roles where these skills are highly valued. This job simulation is divided into three sepearte tasks.
+
+**Task 1:** The task involves creating a dashboard that highlights long-term trends in customer and agent behavior at a call center. It should present key data clearly for easy understanding and be useful for management discussions, with a focus on delivering an informative visual representation of the provided data.
+
+**PowerBI File:** [`PwC_Task-1_Call_Center_Trends.pbix`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/PwC_Task-1_Call_Center_Trends.pbix)
+
+**Dataset:** [`PwC_Task_01 Call-Center-Dataset.xlsx`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/PwC_Task_01%20Call-Center-Dataset.xlsx)
+
+**PDF:** [`PwC_Task-1_Call_Center_Trends.pdf`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/PwC_Task-1_Call_Center_Trends.pdf)
+
+**Task 2:** The task involves creating a dashboard, including details on customers who left in the last month, their services, account info, and demographics, with a focus on analysis on customer churn.
+
+**PowerBI File:** [`PwC_Task-2_Churn_Analysis.pbix`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/PwC_Task-2_Churn_Analysis.pbix)
+
+**Dataset:** [`PwC_Task_02 Churn-Dataset.xlsx`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/PwC_Task_02%20Churn-Dataset.xlsx)
+
+**PDF:** [`PwC_Task-2_Churn_Analysis.pdf`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/PwC_Task-2_Churn_Analysis.pdf)
+
+
+**Task 3:** The task involves creating a dashboard for client to understand and improve gender balance at the company. The focus is on addressing diversity and inclusion, which are essential for business success in today's complex and diverse workforce.
+
+**PowerBI File:** [`PwC_Task-3_Diversity&Inclusion.pbix`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/PwC_Task-3_Diversity%26Inclusion.pbix)
+
+**Dataset:** [`PwC_Task_03 Diversity-Inclusion-Dataset.xlsx`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/PwC_Task_03%20Diversity-Inclusion-Dataset.xlsx)
+
+**PDF:** [`PwC_Task-3_Diversity&Inclusion.pdf`](https://github.com/mdrafi-m/PowerBI_Portfolio_Projects/blob/main/PwC_Task-3_Diversity%26Inclusion.pdf)
 
 ## Education
 Dhaanish Ahmed College of Engineering - Bachelor of Engineering in Civil Engineering (2014-2018)

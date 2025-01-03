@@ -6,7 +6,7 @@ Throughout my journey, I have honed my skills in tools like Excel, Power BI, SQL
 
 In my free time, I enjoy exploring new data analysis tools and techniques and am always eager to expand my knowledge. Whether working independently or as part of a team, I am driven by the satisfaction of uncovering insights and using data to solve real-world challenges.
 
-My Resume in [pdf](https://github.com/mdrafi-m/Data_Analysis_Portfolio/blob/main/Rafi_resume.pdf).
+My Resume in [pdf](https://github.com/mdrafi-m/Data_Analyst_Portfolio/blob/main/Rafi-Resume.pdf).
 
 This is a repository to showcase my skills, share projects and track my progress in Data Analytics and Data Science related topics.
 
@@ -81,7 +81,8 @@ Dhaanish Ahmed College of Engineering - Bachelor of Engineering in Civil Enginee
 ## Certifications
 The most effective way to demonstrate skills is through hands-on work and sharing the results, though certifications can also serve as evidence of expertise. Below is a list of the certifications I've earned (With issued date - expiration date in brackets):
 
-- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-gb/users/mohamedrafiudeen-2856/credentials/901f3838bee9af7a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/en-us/users/mohamedrafiudeen-2856/credentials/4e1e1ef270388390)
+- [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-gb/users/mohamedrafiudeen-2856/credentials/901f3838bee9af7a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UKENC6JEPRD9)
 - [Alteryx Designer Core Certification](https://community.alteryx.com/t5/user/viewprofilepage/user-id/621878)
 - [DataCamp: Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0014161750713)

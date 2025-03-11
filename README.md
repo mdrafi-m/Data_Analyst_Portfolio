@@ -81,6 +81,7 @@ Dhaanish Ahmed College of Engineering - Bachelor of Engineering in Civil Enginee
 ## Certifications
 The most effective way to demonstrate skills is through hands-on work and sharing the results, though certifications can also serve as evidence of expertise. Below is a list of the certifications I've earned:
 
+- [Microsoft Certified: Fabric Data Engineer Associate (DP-700)](https://learn.microsoft.com/api/credentials/share/en-us/MohamedRafiudeen-2856/DB373AC97748865F?sharingId=F5391C80595E5D37)
 - [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/en-us/users/mohamedrafiudeen-2856/credentials/4e1e1ef270388390)
 - [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-gb/users/mohamedrafiudeen-2856/credentials/901f3838bee9af7a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UKENC6JEPRD9)

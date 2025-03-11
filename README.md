@@ -85,7 +85,7 @@ The most effective way to demonstrate skills is through hands-on work and sharin
 - [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/en-us/users/mohamedrafiudeen-2856/credentials/4e1e1ef270388390)
 - [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-gb/users/mohamedrafiudeen-2856/credentials/901f3838bee9af7a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UKENC6JEPRD9)
-- [Alteryx Designer Core Certification](https://community.alteryx.com/t5/user/viewprofilepage/user-id/621878)
+- [Alteryx Designer Core Certification](https://www.credly.com/badges/33560eec-961c-4e6e-a146-bb309d2bd9ab/public_url)
 - [DataCamp: Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0014161750713)
 - [Accenture North America - Data Analytics and Visualization Job Simulation Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_x5yMwMg6Re4fcmq4c_1726756976416_completion_certificate.pdf)
 - [PwC Switzerland - Power BI Job Simulation Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_x5yMwMg6Re4fcmq4c_1727503275286_completion_certificate.pdf)
